@@ -6,3 +6,4 @@ plotly==5.24.0
 gunicorn==23.0.0
 dash-tools==1.12.0
 pandas==2.2.2
+dash_ag_grid==31.3.0
